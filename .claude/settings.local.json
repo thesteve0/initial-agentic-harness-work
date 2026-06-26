@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config *)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:mlflow.org)",
+      "WebFetch(domain:goose-docs.ai)",
+      "WebFetch(domain:briancaffey.github.io)",
+      "WebFetch(domain:hermes-agent.nousresearch.com)"
+    ]
+  }
+}
